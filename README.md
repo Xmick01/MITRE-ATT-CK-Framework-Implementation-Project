@@ -13,11 +13,12 @@ The MITRE ATT&CK Framework Project aimed systematically improve an organizationâ
 - **Security Operations Center Management**: Management of SOC processes, tools, and personnel to ensure monitoring, detection, and response capabilities.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- VirtualBox
-- Splunk
+- [VirtualBox](https://www.virtualbox.org/)
+- [Splunk](https://www.splunk.com/en_us/download/splunk-enterprise/thank-you-enterprise.html)
 - [Atomic Redteam](https://github.com/redcanaryco/invoke-atomicredteam/wiki/Installing-Invoke-AtomicRedTeam)
+- [MITRE-ATT&CK](https://attack.mitre.org/) 
+
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
