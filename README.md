@@ -67,3 +67,7 @@ Install-AtomicRedTeam
 
 ![atomic red team exclusion](https://github.com/Xmick01/MITRE-ATT-CK-Framework-Implementation-Project/assets/130627895/35de3bd8-c80a-46db-ab7f-628df4cc9b5d)
 
+* After that is done, go back to the Powershell and force install Atomic RedTeam using Install-AtomicRedTeam -getAtomics -Force
+
+![force install atomic red team](https://github.com/Xmick01/MITRE-ATT-CK-Framework-Implementation-Project/assets/130627895/9292f4c8-d592-46fb-904c-209091caf8af)
+
