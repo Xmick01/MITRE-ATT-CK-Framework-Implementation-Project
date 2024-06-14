@@ -49,3 +49,21 @@ The MITRE ATT&CK Framework Project aimed systematically improve an organizationâ
 * After agreeing to the license agreement, double-check to make sure sysmon is on the system. Do this by going to Services and scrolling until you see sysmon.
   
   ![double check sysmon ](https://github.com/Xmick01/MITRE-ATT-CK-Framework-Implementation-Project/assets/130627895/0e5b2fd5-1640-4aef-9fef-c4d2c0d61426)
+
+## Steps 3: Download Atomic RedTeam 
+
+* First, open up Powershell and set execution policy for the current user. This way, powershell will be able to run scripts.
+
+  ![Bypass execution policy](https://github.com/Xmick01/MITRE-ATT-CK-Framework-Implementation-Project/assets/130627895/aa6d9850-24f1-4969-bfba-adf58ca5bf6c)
+  
+* Then, copy and paste the [Atomic Redteam](https://github.com/redcanaryco/invoke-atomicredteam/wiki/Installing-Invoke-AtomicRedTeam)
+
+  IEX (IWR 'https://raw.githubusercontent.com/redcanaryco/invoke-atomicredteam/master/install-atomicredteam.ps1' -UseBasicParsing);
+Install-AtomicRedTeam
+
+![install atomic redteam](https://github.com/Xmick01/MITRE-ATT-CK-Framework-Implementation-Project/assets/130627895/f70d7b14-404e-4354-96c4-9be792ee8a11)
+
+* Windows Defender might trigger because of this, so navigate to Windows Defender and set an exclusion for Atomic RedTeam.
+
+![atomic red team exclusion](https://github.com/Xmick01/MITRE-ATT-CK-Framework-Implementation-Project/assets/130627895/35de3bd8-c80a-46db-ab7f-628df4cc9b5d)
+
