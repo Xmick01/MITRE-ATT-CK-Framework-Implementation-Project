@@ -9,7 +9,7 @@ The MITRE ATT&CK Framework Project aimed systematically improve an organizationâ
 - **Threat Intelligence Analysis**: Analyze and interpret data to understand adversary behavior, tactics, techinquesm and procedures (TTPs)
 - **Incident Detection and Response**: Identifying security incidents and responding to them to mitigate damage and prevent future incidents.
 - **Gap Analysis and Risk Assessment**: Evaluating current security measures, identify weaknesses, and assess the risk associated with these gaps.
-- **Red Teaming and Purple Teaming**: Conducting simulated attacks to test the effectiveness of security measures and collaboration between offensive and defensive security operations.
+- **Red Teaming**: Conducting simulated attacks to test the effectiveness of security measures.
 - **Security Operations Center Management**: Management of SOC processes, tools, and personnel to ensure monitoring, detection, and response capabilities.
 
 ### Tools Used
