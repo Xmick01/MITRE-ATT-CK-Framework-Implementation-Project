@@ -6,7 +6,7 @@ The MITRE ATT&CK Framework Project aimed systematically improve an organizationâ
 
 ### Skills Learned
 
-- **Threat Intelligence Analysis**: Analyze and interpret data to understand adversary behavior, tactics, techinquesm and procedures (TTPs)
+- **Threat Intelligence Analysis**: Analyze and interpret data to understand adversary behavior, tactics, techinques and procedures (TTPs)
 - **Incident Detection and Response**: Identifying security incidents and responding to them to mitigate damage and prevent future incidents.
 - **Gap Analysis and Risk Assessment**: Evaluating current security measures, identify weaknesses, and assess the risk associated with these gaps.
 - **Red Teaming**: Conducting simulated attacks to test the effectiveness of security measures.
@@ -74,5 +74,9 @@ Install-AtomicRedTeam
 * Using Invoke_AtomicTest ALL -ShowDetailsBrief to get a list of technique IDs
 
  ![Technique ID list](https://github.com/Xmick01/MITRE-ATT-CK-Framework-Implementation-Project/assets/130627895/921becd4-770d-4dc1-be92-6a5ca1536597)
-  *Mimikatz is a throwback to my [SOC-Automation-project!](https://github.com/Xmick01/SOC-Automation-Project-)
+   
+   * **Mimikatz was the malware used in my [SOC-Automation-project!](https://github.com/Xmick01/SOC-Automation-Project-)**
  
+## Steps 3: Use MITRE ATT&CK to ID TTPs
+
+* Go to [MIRE ATT&CK](https://attack.mitre.org)
