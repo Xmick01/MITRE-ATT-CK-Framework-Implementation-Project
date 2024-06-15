@@ -79,4 +79,16 @@ Install-AtomicRedTeam
  
 ## Steps 3: Use MITRE ATT&CK to ID TTPs
 
-* Go to [MIRE ATT&CK](https://attack.mitre.org)
+* Go to [MITRE ATT&CK](https://attack.mitre.org) and see which applicable technique IDs you want to analyze.
+
+![mitre attck matrix](https://github.com/Xmick01/MITRE-ATT-CK-Framework-Implementation-Project/assets/130627895/807c9686-099f-46de-9b94-84c184a24861)
+
+* For this project, bits will be the technique used to get telemetry in Splunk.
+
+![bits ID](https://github.com/Xmick01/MITRE-ATT-CK-Framework-Implementation-Project/assets/130627895/3efae903-413d-42b9-bc74-c965581935e2)
+
+* Go to Powershell and run the script Invoke-AtomicTest T1197 to run the malware on the VM.
+
+![bits ID script](https://github.com/Xmick01/MITRE-ATT-CK-Framework-Implementation-Project/assets/130627895/7ce00b57-e12c-46af-b0cd-675615a3f1d4)
+
+
