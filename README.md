@@ -91,4 +91,7 @@ Install-AtomicRedTeam
 
 ![bits ID script](https://github.com/Xmick01/MITRE-ATT-CK-Framework-Implementation-Project/assets/130627895/7ce00b57-e12c-46af-b0cd-675615a3f1d4)
 
+* Switch to Splunk and see if any telemetry was generated
+
+![splunk telemetry](https://github.com/Xmick01/MITRE-ATT-CK-Framework-Implementation-Project/assets/130627895/1c098a9f-e1e8-4cce-88a2-82db913b72a3)
 
