@@ -71,3 +71,8 @@ Install-AtomicRedTeam
 
 ![force install atomic red team](https://github.com/Xmick01/MITRE-ATT-CK-Framework-Implementation-Project/assets/130627895/9292f4c8-d592-46fb-904c-209091caf8af)
 
+* Using Invoke_AtomicTest ALL -ShowDetailsBrief to get a list of technique IDs
+
+ ![Technique ID list](https://github.com/Xmick01/MITRE-ATT-CK-Framework-Implementation-Project/assets/130627895/921becd4-770d-4dc1-be92-6a5ca1536597)
+  *Mimikatz is a throwback to my [SOC-Automation-project!](https://github.com/Xmick01/SOC-Automation-Project-)
+ 
